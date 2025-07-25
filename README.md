@@ -7,9 +7,9 @@ Jetpack Compose ile geliştirilen sade, modern ve **Firebase** destekli bir dü�
 ## 🖼️ Ekran Görüntüleri
 
 <p float="left">
-  <img src="screenshots/OpinionGiris.png" width="30%" />
-  <img src="screenshots/OpinionAnasayfa.png" width="30%" />
-  <img src="screenshots/OpinionPaylas.png" width="30%" />
+  <img src="screenshots/OpinionGiris.PNG" width="30%" />
+  <img src="screenshots/OpinionAnasayfa.PNG" width="30%" />
+  <img src="screenshots/OpinionPaylas.PNG" width="30%" />
 </p>
 
 ---
