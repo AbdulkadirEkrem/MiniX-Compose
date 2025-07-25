@@ -149,13 +149,14 @@ fun PaylasimKarti(paylasim: Paylasim) {
             )
 
             Divider(modifier = Modifier.padding(vertical = 4.dp))
+            Spacer(modifier = Modifier.height(6.dp))
 
             Text(
                 text = "👤 ${paylasim.kullanici}",
                 style = MaterialTheme.typography.labelMedium.copy(fontSize = 14.sp),
                 color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f)
             )
-
+            Spacer(modifier = Modifier.height(6.dp))
             Text(
                 text = "🕒 ${dateFormat.format(paylasim.tarih)}",
                 style = MaterialTheme.typography.labelSmall.copy(fontSize = 12.sp),
