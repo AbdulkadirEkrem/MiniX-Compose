@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DusuncePaylas</string>
+    <string name="title_activity_dusunce">DusunceActivity</string>
+    <string name="title_activity_paylasim">PaylasimActivity</string>
+</resources>
